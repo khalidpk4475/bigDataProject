@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.ejml:ejml-fdense:0.39:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/ejml/ejml-fdense/0.39/ejml-fdense-0.39.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/ejml/ejml-fdense/0.39/ejml-fdense-0.39-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/ejml/ejml-fdense/0.39/ejml-fdense-0.39-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
